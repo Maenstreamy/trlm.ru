@@ -210,6 +210,7 @@ body {
     align-items: center;
 }
 
+
 @media (max-width: 1600px) {
     .header__button {
         max-width: 156px;
